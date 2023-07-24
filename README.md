@@ -1,3 +1,3 @@
 ## hi, i'm noah lemen! 🍋
 
-i'm front end engineer at [meta](https://engineering.fb.com/), where i work on javascript infrastructure
+i'm front end engineer at [meta](https://github.com/facebook), where i work on [react](https://github.com/facebook/react) and javascript infrastructure
